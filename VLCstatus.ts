@@ -60,7 +60,7 @@ export class VLCStatus {
 
 export enum VLCPlaylistStatus {
     stopped = 'stopped',
-    playing = 'playing',
+    listening = 'playing',
     paused = 'paused',
     unknown = 'unknown'
 }
